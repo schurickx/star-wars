@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,EAAE,CAAC,AAAA,OAAO,EAAE,CAAC,AAAA,MAAM,CAAC;EACjB,UAAU,EAAE,UAAU;EACtB,eAAe,EAAE,IAAI;CAAG",
+    "sources": [
+        "../../../Users/vitek/Desktop/magazin/v3/sass/style.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
